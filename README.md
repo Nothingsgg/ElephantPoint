@@ -1,6 +1,8 @@
 # ElephantPoint
 
-ElephantPoint is a C# module that will use SharePoint token to search and download files.
+ElephantPoint is a C# module that will use SharePoint token to search and download files.  
+
+Article URL: https://www.lrqa.com/en/insights/articles/elephantpoint-a-sharepoint-enumeration-tool/
 
 ## Usage
 ```
@@ -22,5 +24,5 @@ Example:
 ```
 
 ## Credits  
-Code is based on the following repos:
+Code is based on the following repo:
 - https://github.com/nheiniger/SnaffPoint 
